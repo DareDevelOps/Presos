@@ -11,8 +11,8 @@
 
 +++
 
-## AdiosP
+## Adios
 
 ---
 
-@fa[fa-database]
+@fa[fas fa-database]
