@@ -19,4 +19,4 @@
 
 ---
 
-@fa[fab fa-d-and-d]
+@fa[fa-d-and-d]
